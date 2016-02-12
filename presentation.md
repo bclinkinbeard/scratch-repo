@@ -3,7 +3,7 @@
 
 ---
 
-## This is the second slide
+## This is the second slide, dude
 
 A blank line, then 3 dashes, then another blank line delimit a new slide.
 
