@@ -11,7 +11,6 @@
 3. Assessment Literacy platform paper/module. 
 
 
-sdvs
 ## Assessment Literacy Paper Outline
 
 ### Introduction (Damian & Chris) 
