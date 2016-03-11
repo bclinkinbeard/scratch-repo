@@ -1,4 +1,4 @@
-# Literacy Collaborative Workgroup Project
+# Literacy UGH Collaborative Workgroup Project
 
 ## Deliverables (due March 1st?)
 
