@@ -1,6 +1,6 @@
-# Literacy!! Collaborative Workgroup Project
+# Literacy Collaborative Workgroup Project
 
-## Deliverables (due March 1st?)
+## Deliverables (due March 1st)
 
 ### February 18th: Share to all with partner edits
 ### February 26th: Project Completion
