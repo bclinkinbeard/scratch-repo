@@ -1,4 +1,4 @@
-# Literacy Collaborative Workgroup Project
+# Collaborative Workgroup Project
 
 ## Deliverables (due March 1st)
 
